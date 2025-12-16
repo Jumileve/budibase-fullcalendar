@@ -128,7 +128,8 @@
               "en",
               "fr",
               "es",
-              "ru"
+              "ru",
+              "it"
             ],
             "label": "language",
             "defaultValue": "pt"
