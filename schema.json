@@ -132,7 +132,7 @@
               "it"
             ],
             "label": "language",
-            "defaultValue": "pt"
+            "defaultValue": "it"
           },
           {
             "type": "event",
