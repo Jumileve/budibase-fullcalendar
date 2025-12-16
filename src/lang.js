@@ -133,8 +133,8 @@ export const langs =  [
             doy: 4,
         },
         buttonText: {
-            prev: 'Precedente',
-            next: 'Successivo',
+            prev: '<',
+            next: '>',
             today: 'Oggi',
             year: 'Anno',
             month: 'Mese',
